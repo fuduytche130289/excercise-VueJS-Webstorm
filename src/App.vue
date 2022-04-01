@@ -12,7 +12,7 @@
           <button @click='divide' class="number number-div">/</button>
         </div>
         <div class="row-2">
-          <button @click='append(4)' class="number number-4">44</button>
+          <button @click='append(4)' class="number number-4">4</button>
           <button @click='append(5)' class="number number-5">5</button>
           <button @click='append(6)' class="number number-6">6</button>
           <button @click='multiply' class="number number-mul">*</button>
